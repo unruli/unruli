@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @unruli  Okocha chibuzor joseph
 - a computer engineering major and a techie
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python for machine learning and other things necessary
+- 🌱 I’m currently learning python for machine learning and computer vision
+- my goal is to be able to write codes for self driving cars and work at big tech 
 - 💞️ I’m looking to collaborate on any python projects and software development
 - 📫 How to reach me okochachibu242@gmail,com
 -  love to learn new technologies
