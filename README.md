@@ -4,11 +4,17 @@
 - 🌱 I’m currently learning python for machine learning, deep learning, computer vision and python for Web application.
 - 💞️ I’m looking to collaborate on any python projects and software development.
 Some of my familiar Frameworks are
+
 -PyTorch
+
 -Tensorflow
+
 -keras
+
 -flask
+
 -Django
+
 -FastAPI
 
 
