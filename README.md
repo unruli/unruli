@@ -6,6 +6,7 @@ I am a PhD research assistant at the universoity of Florida with research intere
 - 💞️ I’m looking to collaborate on any python projects and software development.
 - 
 Some of my familiar Frameworks are
+
 -PyTorch
 -Tensorflow
 -keras
