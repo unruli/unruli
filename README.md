@@ -4,7 +4,7 @@ I am a PhD research assistant and Ph.D. student at the University of Florida wit
 
 - 🌱 I’m currently learning python for machine learning, deep learning and natural language processing.
 - 💞️ I’m looking to collaborate on any ML and AI research projects.
-- 
+- 🌊 I'm also open to collaborating on research work in the field of AI and NLP.
 
 Some of my familiar Frameworks are
 
