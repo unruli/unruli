@@ -4,12 +4,12 @@ I am a PhD research assistant at the universoity of Florida with research intere
 
 - 🌱 I’m currently learning python for machine learning, deep learning and natural language processing.
 - 💞️ I’m looking to collaborate on any ML and Ai research projects.
-- 
+
 Some of my familiar Frameworks are
 
--PyTorch
--Tensorflow
--keras
+- PyTorch
+- Tensorflow
+- keras
 
 - 📫 How to reach me 
 <!---
