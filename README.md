@@ -1,6 +1,5 @@
 Hey everyone 👋🏾
 
-
 I am a PhD research assistant at the universoity of Florida with research interests in Ai for Education, Neural machine translation in Computing and Engineering education, AI governance, global Enginering Competency, and human-centered AI. Within these fields, I work on projects related to improving AI in Computing and engineering education, how neural machine translation is used in education, how LLms can help improve learning in computing education, using accent transfer in computing and engineering education to improve learning.
 
 - 🌱 I’m currently learning python for machine learning, deep learning and natural language processing.
