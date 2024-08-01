@@ -1,3 +1,5 @@
+Hey everyone 👋🏾
+
 - 👋 Hi, my name is  Okocha chibuzor joseph
 - I am computer engineering major and a techie
 - 👀 I’m interested in software development
