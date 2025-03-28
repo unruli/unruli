@@ -5,10 +5,10 @@ I'm **Chibuzor Okocha**, a passionate and curious **2nd-year Ph.D. student** and
 ---
 
 ## 🔍 Research Interests
-I'm driven by exploring **Human-Centered AI** and pushing the boundaries of:
+I'm driven by exploring **AI Research** and pushing the boundaries of:
 
 - 🤖 **AI for Education**
-- 🌐 **Neural Machine Translation** in Computing & Engineering Education
+- 🌐 **African languages and Accented Speech**
 - 🧠 **Large Language Models (LLMs)** & **Multimodal LLMs**
 - 🗣️ **Speech AI**
 - 📜 **AI Governance**
