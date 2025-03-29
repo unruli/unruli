@@ -11,7 +11,7 @@ I'm driven by exploring **AI Research** and pushing the boundaries of:
 - 🌐 **African languages and Accented Speech**
 - 🧠 **Large Language Models (LLMs)** & **Multimodal LLMs**
 - 🗣️ **Speech AI**
-- 📜 **AI Governance**
+- 📜 **AI Governance and Policy**
 - ❤️ **Healthcare AI** applications
 
 ---
