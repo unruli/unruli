@@ -31,7 +31,7 @@ Currently learning and building with:
 ## 🤝 Open to Collaborate!
 I’m looking to connect with like-minded researchers and developers working on:
 
-- ML & AI Research Projects
+- ML & AI Research Project
 - NLP & Speech AI Projects
 - Applications of AI in **Education** and **Healthcare**
 
