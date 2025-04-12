@@ -24,7 +24,7 @@ Here are some tools I work with regularly:
 - 🧬 **Keras**
 
 Currently learning and building with:
--  **SPeech AI** Large Language Models, Multimodal Language models
+-  **Speech AI** Large Language Models, Multimodal Language models
 
 ---
 
