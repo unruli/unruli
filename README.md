@@ -21,7 +21,6 @@ Here are some tools I work with regularly:
 
 - 🔥 **PyTorch**
 - 🧠 **TensorFlow**
-- 🧬 **Keras**
 
 Currently learning and building with:
 -  **Speech AI** Large Language Models, Multimodal Language models
@@ -37,10 +36,6 @@ I’m looking to connect with like-minded researchers and developers working on:
 
 Let’s build something impactful together! 💡
 
----
-
-## 📫 Reach Out
-📧 Email: [okochachibu242@gmail.com](mailto:okochachibu242@gmail.com)
 
 ---
 
