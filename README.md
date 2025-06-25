@@ -7,20 +7,12 @@ I'm **Chibuzor Okocha**, a passionate and curious **2nd-year Ph.D. student** and
 ## 🔍 Research Interests
 I'm driven by exploring **AI Research** and pushing the boundaries of:
 
-- 🤖 **AI for Education**
 - 🌐 **African languages and Accented Speech**
 - 🧠 **Large Language Models (LLMs)** & **Multimodal LLMs**
 - 🗣️ **Speech AI and Speech LLMs**
-- 📜 **AI Governance and Policy**
 - ❤️ **Healthcare AI** applications
 
 ---
-
-## 💻 Tech Stack & Frameworks
-Here are some tools I work with regularly:
-
-- 🔥 **PyTorch**
-- 🧠 **TensorFlow**
 
 Currently learning and building with:
 -  **Speech AI** Large Language Models, Multimodal Language models
