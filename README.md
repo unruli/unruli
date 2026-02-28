@@ -15,7 +15,7 @@ I'm driven by exploring **AI Research** and pushing the boundaries of:
 ---
 
 Currently learning and building with:
--  **Speech AI** Large Language Models, Multimodal Language models
+-  **Speech AI**, Large Language Models, Multimodal Language models
 
 ---
 
