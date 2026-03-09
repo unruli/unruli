@@ -1,6 +1,6 @@
 # 👋🏾 Hey there! Welcome to my GitHub!
 
-I'm **Chibuzor Okocha**, a passionate and curious **2nd-year Ph.D. student** and **Research Assistant** at the **University of Florida** 🎓. My research lies at the exciting intersection of **Artificial Intelligence**, **Unimodal and Multimodal LLMs**, **Computing & Engineering Education** and **Healthcare**.
+I'm **Chibuzor Okocha**, a passionate and curious **Ph.D. student** and **Research Assistant** at the **University of Florida** 🎓. My research lies at the exciting intersection of **Artificial Intelligence**, **Unimodal and Multimodal LLMs**, and **Healthcare AI**.
 
 ---
 
